@@ -1,2 +1,2 @@
 console.log('hello world')
-console.log('プルリクエストの練習です。')
+console.log('Pull request practice.')
